@@ -18,5 +18,5 @@ def main(num_entered):
         again = str(input("Do you want to play again? (yes or no): ")).lower()
 
     if again == "yes":
-         print("Thanks for playing!")
+         print("Thanks for playing!!")
 
