@@ -19,6 +19,7 @@ size = int(input("Enter an odd number for the size: "))
 for row in range(size):
     # Iterate over the columns.
     for col in range(size):
+
         # Test if the position is on the diagonal
         # Hint: Test if col and row are equal
         if row == col:
